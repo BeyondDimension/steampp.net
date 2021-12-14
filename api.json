@@ -1,5 +1,5 @@
 {
-  "version": "2.6.1",
+  "version": "2.6.3",
   "download": {
     "uwp": [
       {
@@ -11,15 +11,19 @@
     "windows": [
       {
         "name": "安装版 x64.exe",
-        "url": "https://pan.bilnn.cn/api/v3/file/sourcejump/9yOvE9io/Ml0815Ca71gTfCYqZQU_JVeO0WoK1NkaxTF3PSXphIc*"
+        "url": "https://pan.bilnn.cn/api/v3/file/sourcejump/lmoXdKFb/fYP_GCMyXS_5yJglwOGIMexwF5B5WgQJpWBveFCgKXg*"
       },
       {
         "name": "免安装版 x64.7z",
-        "url": "https://gitee.com/rmbgame/SteamTools/attach_files/892860/download/Steam%20%20_win_x64_v2.6.1.7z"
+        "url": "https://pan.bilnn.cn/api/v3/file/sourcejump/kO7bMpTA/15sEzWgx6-1GWxHGASoiY17JaHJ1EmspZyLFyZychp8*"
       },
       {
-        "name": "(微软云)免安装版 x64.7z",
-        "url": "https://storage.live.com/items/33DF467B8B946862!160406:/Steam++_win_x64_2.6.1.exe?authkey=ADTPAuEY6IZtspg"
+        "name": "(gitee)免安装版 x64.7z",
+        "url": "https://gitee.com/rmbgame/SteamTools/attach_files/910523/download/Steam%20%20_win_x64_v2.6.3.7z"
+      },
+      {
+        "name": "(gitee)安装版 x64.7z",
+        "url": "https://gitee.com/rmbgame/SteamTools/attach_files/910524/download/Steam%20%20_win_x64_v2.6.3.exe"
       },
       {
         "name": "比邻云盘",
