@@ -4,23 +4,18 @@
     "uwp": [
       {
         "name": "微软商店",
-        "about": "Windows 10 版本 17763.0 或更高版本 64位 可安装",
+        "about": "Windows 10 版本 14393.0 或更高版本",
         "url": "https://www.microsoft.com/store/productId/9MTCFHS560NG"
       }
     ],
     "windows": [
-
       {
-        "name": "(gitee)免安装版 x64.7z",
+        "name": "免安装版直链下载(Gitee)",
         "url": "https://gitee.com/rmbgame/SteamTools/attach_files/984964/download/Steam%20%20_win_x64_v2.6.9.7z"
       },
       {
-        "name": "(gitee)安装版 x64",
+        "name": "安装版直链下载(Gitee)",
         "url": "https://gitee.com/rmbgame/SteamTools/attach_files/984963/download/Steam%20%20_win_x64_v2.6.9.exe"
-      },
-      {
-        "name": "阿里云盘",
-        "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
       },
       {
         "name": "蓝奏云网盘",
@@ -28,59 +23,71 @@
         "code": "1234"
       },
       {
-        "name": "百度网盘",
-        "url": "https://pan.baidu.com/s/1DIfdVaoZCH-jPmfOwbxKrA",
-        "code": "gca6",
-        "disable": false
+        "name": "阿里云盘",
+        "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
       },
       {
-        "name": "Nas 分流(较慢)",
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1xQ-RJEwd3y1nwUX7YZQ5nQ?pwd=ce4h"
+      },
+      {
+        "name": "Nas 分流",
         "url": "https://pan.mossimo.net:5212/s/4yiQ"
       }
     ],
     "mac": [
       {
         "name": "蓝奏云网盘",
-        "url": "https://cliencer.lanzoux.com/b016odhfc",
+        "url": "https://wwe.lanzouy.com/b01v4izaf",
         "code": "1234"
       },
-
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1UaVrxC1F1GtkLTdC25yK-w?pwd=wg4x"
+      },
       {
         "name": "阿里云盘",
         "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
       },
       {
-        "name": "Nas 分流(较慢)",
+        "name": "Nas 分流",
         "url": "https://pan.mossimo.net:5212/s/4yiQ"
       }
     ],
     "android": [
       {
+        "name": "蓝奏云网盘",
+        "url": "https://wwe.lanzouy.com/b01v4izfa",
+        "code": "1234"
+      },
+      {
         "name": "阿里云盘",
         "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
       },
       {
-        "name": "蓝奏云网盘",
-        "url": "https://cliencer.lanzoux.com/b016odheb",
-        "code": "1234"
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1Tnu9s10n57i8Fd9EmgTZBw?pwd=hk5f"
       }
     ],
     "ios": [],
     "linux": [
       {
+        "name": "蓝奏云网盘",
+        "url": "https://wwe.lanzouy.com/b01v4iz7c",
+        "code": "1234"
+      },
+      {
         "name": "阿里云盘",
         "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
       },
       {
-        "name": "蓝奏云网盘",
-        "url": "https://cliencer.lanzoui.com/b016odhbi",
-        "code": "1234"
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1WOQBEg7hl92Lq7mjONlFJg?pwd=7tbn"
       },
-
       {
-        "name": "Nas 分流(较慢)",
+        "name": "Nas 分流",
         "url": "https://pan.mossimo.net:5212/s/4yiQ"
       }
     ]
-  } 
+  }
 }
