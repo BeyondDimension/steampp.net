@@ -11,10 +11,12 @@
     "windows": [
       {
         "name": "免安装版直链下载(Gitee)",
+        "about": "托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。",
         "url": "https://gitee.com/rmbgame/SteamTools/attach_files/984964/download/Steam%20%20_win_x64_v2.6.9.7z"
       },
       {
         "name": "安装版直链下载(Gitee)",
+        "about": "托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。",
         "url": "https://gitee.com/rmbgame/SteamTools/attach_files/984963/download/Steam%20%20_win_x64_v2.6.9.exe"
       },
       {
