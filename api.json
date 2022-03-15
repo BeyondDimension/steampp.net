@@ -1,13 +1,7 @@
 {
   "version": "2.6.9",
   "download": {
-    "uwp": [
-      {
-        "name": "微软商店",
-        "about": "Windows 10 版本 14393.0 或更高版本",
-        "url": "https://www.microsoft.com/store/productId/9MTCFHS560NG"
-      }
-    ],
+    "uwp": [],
     "windows": [
       {
         "name": "免安装版直链下载(Gitee)",
