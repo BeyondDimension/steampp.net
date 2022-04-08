@@ -23,5 +23,5 @@
     "&emsp;11. 改进 本地加速 增加 重置 Hosts 文件 与 打开 Hosts 所在文件夹",
     "&emsp;12. 改进 Hosts 文件存在多个 Mark 导致失败的错误提示"
   ],
-  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.6.4"
+  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.6.5"
 }

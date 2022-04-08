@@ -13,5 +13,5 @@
     "&emsp;&emsp;Linux 也可能受影响(较小概率)，能启动则可忽略此更新，其他平台不受此影响",
     "&emsp;2. 优化 程序内图片资源占用空间"
   ],
-  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.6.4"
+  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.6.7"
 }
