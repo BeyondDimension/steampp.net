@@ -1,8 +1,9 @@
 {
+  "id": "SteamppWeb",
   "name": "Steam++",
   "short_name": "Steam++",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "/?homescreen=1",
   "theme_color": "#002140",
   "background_color": "#001529",
   "icons": [
