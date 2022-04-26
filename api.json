@@ -1,1 +1,105 @@
-{"version":"2.7.0","download":{"uwp":[],"windows":[{"name":"免安装版直链下载(Gitee)","about":"托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。","url":"https://gitee.com/rmbgame/SteamTools/attach_files/1043375/download/Steam%20%20_win_x64_v2.7.0.7z"},{"name":"安装版直链下载(Gitee)","about":"托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。","url":"https://gitee.com/rmbgame/SteamTools/attach_files/1043376/download/Steam%20%20_win_x64_v2.7.0.exe"},{"name":"蓝奏云网盘","url":"https://cliencer.lanzoux.com/b01v4iz1g","code":"1234"},{"name":"阿里云盘","url":"https://www.aliyundrive.com/s/KDCFrongF7F"},{"name":"奶牛快传","url":"https://cowtransfer.com/s/94ce5dfa928f45"},{"name":"百度网盘","url":"https://pan.baidu.com/s/1xQ-RJEwd3y1nwUX7YZQ5nQ?pwd=ce4h"},{"name":"Nas 分流","url":"https://pan.mossimo.net:5212/s/4yiQ"}],"mac":[{"name":"蓝奏云网盘","url":"https://wwe.lanzouy.com/b01v4izaf","code":"1234"},{"name":"百度网盘","url":"https://pan.baidu.com/s/1UaVrxC1F1GtkLTdC25yK-w?pwd=wg4x"},{"name":"阿里云盘","url":"https://www.aliyundrive.com/s/KDCFrongF7F"},{"name":"奶牛快传","url":"https://cowtransfer.com/s/94ce5dfa928f45"},{"name":"Nas 分流","url":"https://pan.mossimo.net:5212/s/4yiQ"}],"android":[{"name":"蓝奏云网盘","url":"https://wwe.lanzouy.com/b01v4izfa","code":"1234"},{"name":"阿里云盘","url":"https://www.aliyundrive.com/s/KDCFrongF7F"},{"name":"奶牛快传","url":"https://cowtransfer.com/s/94ce5dfa928f45"},{"name":"百度网盘","url":"https://pan.baidu.com/s/1Tnu9s10n57i8Fd9EmgTZBw?pwd=hk5f"}],"ios":[],"linux":[{"name":"蓝奏云网盘","url":"https://wwe.lanzouy.com/b01v4iz7c","code":"1234"},{"name":"阿里云盘","url":"https://www.aliyundrive.com/s/KDCFrongF7F"},{"name":"百度网盘","url":"https://pan.baidu.com/s/1WOQBEg7hl92Lq7mjONlFJg?pwd=7tbn"},{"name":"奶牛快传","url":"https://cowtransfer.com/s/94ce5dfa928f45"},{"name":"Nas 分流","url":"https://pan.mossimo.net:5212/s/4yiQ"}]}}
+{
+  "version": "2.7.0",
+  "download": {
+    "uwp": [],
+    "windows": [
+      {
+        "name": "免安装版直链下载(Gitee)",
+        "about": "托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。",
+        "url": "https://gitee.com/rmbgame/SteamTools/attach_files/1043375/download/Steam%20%20_win_x64_v2.7.0.7z"
+      },
+      {
+        "name": "安装版直链下载(Gitee)",
+        "about": "托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。",
+        "url": "https://gitee.com/rmbgame/SteamTools/attach_files/1043376/download/Steam%20%20_win_x64_v2.7.0.exe"
+      },
+      {
+        "name": "蓝奏云网盘",
+        "url": "https://cliencer.lanzoux.com/b01v4iz1g",
+        "code": "1234"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
+      },
+      {
+        "name": "奶牛快传",
+        "url": "https://cowtransfer.com/s/94ce5dfa928f45"
+      },
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1xQ-RJEwd3y1nwUX7YZQ5nQ?pwd=ce4h"
+      },
+      {
+        "name": "Nas 分流",
+        "url": "https://pan.mossimo.net:5212/s/4yiQ"
+      }
+    ],
+    "mac": [
+      {
+        "name": "蓝奏云网盘",
+        "url": "https://wwe.lanzouy.com/b01v4izaf",
+        "code": "1234"
+      },
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1UaVrxC1F1GtkLTdC25yK-w?pwd=wg4x"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
+      },
+      {
+        "name": "奶牛快传",
+        "url": "https://cowtransfer.com/s/94ce5dfa928f45"
+      },
+      {
+        "name": "Nas 分流",
+        "url": "https://pan.mossimo.net:5212/s/4yiQ"
+      }
+    ],
+    "android": [
+      {
+        "name": "蓝奏云网盘",
+        "url": "https://wwe.lanzouy.com/b01v4izfa",
+        "code": "1234"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
+      },
+      {
+        "name": "奶牛快传",
+        "url": "https://cowtransfer.com/s/94ce5dfa928f45"
+      },
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1Tnu9s10n57i8Fd9EmgTZBw?pwd=hk5f"
+      }
+    ],
+    "ios": [],
+    "linux": [
+      {
+        "name": "蓝奏云网盘",
+        "url": "https://wwe.lanzouy.com/b01v4iz7c",
+        "code": "1234"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https://www.aliyundrive.com/s/KDCFrongF7F"
+      },
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/s/1WOQBEg7hl92Lq7mjONlFJg?pwd=7tbn"
+      },
+      {
+        "name": "奶牛快传",
+        "url": "https://cowtransfer.com/s/94ce5dfa928f45"
+      },
+      {
+        "name": "Nas 分流",
+        "url": "https://pan.mossimo.net:5212/s/4yiQ"
+      }
+    ]
+  }
+}
