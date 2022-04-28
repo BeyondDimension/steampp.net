@@ -1,17 +1,17 @@
 {
-  "version": "2.7.0",
+  "version": "2.7.1",
   "download": {
     "uwp": [],
     "windows": [
       {
-        "name": "免安装版直链下载(Gitee)",
-        "about": "托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。",
-        "url": "https://gitee.com/rmbgame/SteamTools/attach_files/1043375/download/Steam%20%20_win_x64_v2.7.0.7z"
+        "name": " Gitee 下载",
+        "about": "Gitee 的下载地址，如下载不可用请更换其他下载渠道。",
+        "url": "https://gitee.com/rmbgame/SteamTools/releases/2.7.1"
       },
       {
-        "name": "安装版直链下载(Gitee)",
-        "about": "托管于 Gitee 的下载直链，如下载不可用请更换其他下载渠道。",
-        "url": "https://gitee.com/rmbgame/SteamTools/attach_files/1043376/download/Steam%20%20_win_x64_v2.7.0.exe"
+        "name": "Github 下载",
+        "about": "Github 的下载地址，如下载不可用请更换其他下载渠道。",
+        "url": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.7.1"
       },
       {
         "name": "蓝奏云网盘",

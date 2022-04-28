@@ -1,0 +1,17 @@
+{
+  "index": 30,
+  "oldversion": "2.7.0",
+  "version": "2.7.1",
+  "time": "(2022-04-28)",
+  "remarks": [
+    "<div class='ant-typography' style='font-size:18px;margin-bottom: 0px;font-weight: bold;'>修复问题</div>",
+    "&emsp;1. 修复 库存游戏中挂时长失效",
+    "&emsp;2. 修复 Steam 库存游戏在 Steam 账号切换后自动刷新失败的问题",
+    "&emsp;3. 修复 Steam 库存游戏编辑带有本地化名称的游戏无效的问题",
+    "&emsp;4. 修复 Android 上登录后出现两个退出登录按钮",
+    "&emsp;5. 改进 Android 上第三方快速登录使用系统默认浏览器",
+    "&emsp;6. 修复 一些图片加载失败不显示的问题",
+    "&emsp;7. 改进 从本地加载图片减少不必要的内存分配"
+  ],
+  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.7.1"
+}
