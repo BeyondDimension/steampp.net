@@ -1,7 +1,7 @@
 {
   "id": "SteamppWeb",
-  "name": "Steam++",
-  "short_name": "Steam++",
+  "name": "Watt Toolkit",
+  "short_name": "Watt Toolkit",
   "display": "standalone",
   "start_url": "/?homescreen=1",
   "theme_color": "#002140",

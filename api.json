@@ -11,7 +11,13 @@
     "url": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.7.2"
   },
   "download": {
-    "uwp": [],
+    "uwp": [
+      {
+        "name": "微软商店",
+        "about": "Windows 10 版本 17763.0 或更高版本 64位 可安装",
+        "url": "https://www.microsoft.com/store/productId/9MTCFHS560NG"
+      }
+    ],
     "windows": [
       {
         "name": "蓝奏云网盘",
