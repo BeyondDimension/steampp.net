@@ -11,7 +11,7 @@
 // @include     *://steamcommunity.com/market*
 // @include     *://steamcommunity.com/tradeoffer*
 // @require     https://gw.alipayobjects.com/os/lib/jquery/3.3.1/jquery.min.js
-// @require     https://cdn.bootcdn.net/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css
+// @require     https://cdn.bootcdn.net/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
 // @require     https://steampp.net/uploads/js/jquery-observe/jquery-observe.js
 // @require     https://cdn.bootcdn.net/ajax/libs/paginationjs/2.1.2/pagination.min.js
 // @require     https://cdn.bootcdn.net/ajax/libs/async/2.6.0/async.min.js
