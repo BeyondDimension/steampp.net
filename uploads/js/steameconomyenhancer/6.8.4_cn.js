@@ -4,7 +4,7 @@
 // @namespace   https://github.com/Nuklon
 // @author      Nuklon
 // @license     MIT
-// @version     6.8.3_Cn
+// @version     6.8.4_Cn
 // @description 增强 Steam 库存和 Steam 市场功能，实现批量出售饰品、卡片功能，并且能自动计算价格【此功能需要先开启Steam社区加速】
 // @include     *://steamcommunity.com/id/*/inventory*
 // @include     *://steamcommunity.com/profiles/*/inventory*
