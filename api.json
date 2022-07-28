@@ -3,12 +3,12 @@
   "gitee": {
     "name": " Gitee 下载",
     "about": "Gitee 的下载地址，如下载不可用请更换其他下载渠道。",
-    "url": "https://gitee.com/rmbgame/SteamTools/releases/2.8.1"
+    "url": "https://gitee.com/rmbgame/SteamTools/releases/2.8.2"
   },
   "github": {
     "name": "Github 下载",
     "about": "Github 的下载地址，如下载不可用请更换其他下载渠道。",
-    "url": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.8.1"
+    "url": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.8.2"
   },
   "download": {
     "uwp": [
