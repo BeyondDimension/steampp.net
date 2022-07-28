@@ -1,5 +1,5 @@
 {
-  "index": 30,
+  "index": 33,
   "oldversion": "2.7.2",
   "version": "2.8.1",
   "time": "(2022-07-23)",
@@ -38,5 +38,5 @@
     "&emsp;11. 修复 系统代理模式与 PAC 代理模式中监听地址为 0.0.0.0 时出现的错误",
     "&emsp;12. 修复 切换页面 UI 布局错乱"
   ],
-  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.8.0"
+  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.8.1"
 }

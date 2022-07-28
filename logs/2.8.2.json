@@ -1,0 +1,22 @@
+{
+  "index": 34,
+  "oldversion": "2.8.1",
+  "version": "2.8.2",
+  "time": "(2022-07-28)",
+  "remarks": [
+    "<div class='ant-typography' style='font-size:18px;margin-bottom: 0px;font-weight: bold;'>版本亮点</div>",
+    "&emsp;1. 修复与改进一些已知问题",
+    "<div class='ant-typography' style='font-size:18px;margin-bottom: 0px;font-weight: bold;'>修复问题</div>",
+    "&emsp;1. 修复 Windows FDE 版在 Windows 8.1/10 上错误识别成 Windows 8",
+    "&emsp;2. 修复 网络加速 DNS 设置无效",
+    "&emsp;3. 修复 网络加速 PAC 代理模式不能正常工作",
+    "&emsp;4. 修复 Windows 7 上的一些兼容性问题导致加速失效",
+    "&emsp;5. 改进 Windows Desktop Bridge 版本中不再弹出防火墙规则授权弹窗",
+    "&emsp;6. 修复 Windows Desktop Bridge 版本开机自启静默失效",
+    "&emsp;7. 改进 DNS 驱动拦截模式停止后不再占用 sys 文件",
+    "&emsp;8. 改进 通知 UI 列表项中仅显示两行文字",
+    "&emsp;9. 修复 第三方快速登录失败",
+    "&emsp;10. 改进 关闭代理时仅根据当前代理模式进行清理"
+  ],
+  "gitHubRelease": "https://github.com/BeyondDimension/SteamTools/releases/tag/2.8.2"
+}
