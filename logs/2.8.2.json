@@ -4,8 +4,6 @@
   "version": "2.8.2",
   "time": "(2022-07-28)",
   "remarks": [
-    "<div class='ant-typography' style='font-size:18px;margin-bottom: 0px;font-weight: bold;'>版本亮点</div>",
-    "&emsp;1. 修复与改进一些已知问题",
     "<div class='ant-typography' style='font-size:18px;margin-bottom: 0px;font-weight: bold;'>修复问题</div>",
     "&emsp;1. 修复 Windows FDE 版在 Windows 8.1/10 上错误识别成 Windows 8",
     "&emsp;2. 修复 网络加速 DNS 设置无效",
