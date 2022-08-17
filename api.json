@@ -2,7 +2,7 @@
   "version": "2.8.4",
   "gitee": {
     "name": " Gitee 下载",
-    "about": "(目前 Gitee 仓库损毁无法下载请选择其他渠道) Gitee 的下载地址，如下载不可用请更换其他下载渠道。",
+    "about": "Gitee 的下载地址，如下载不可用请更换其他下载渠道。",
     "url": "https://gitee.com/rmbgame/SteamTools/releases/2.8.4"
   },
   "github": {
