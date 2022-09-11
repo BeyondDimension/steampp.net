@@ -127,7 +127,7 @@
      */
     var options = {
         //默认翻译引擎
-        defaulttransengine: "yd"
+        defaulttransengine: "bd"
     };
     /**
      * 获取配置参数
@@ -295,16 +295,16 @@
                             Trans.transResult.orig = origs;
                             Trans.transResult.origLang = src.split("2")[0];
 
-                            //var smartResult = data.smartResult;
-                            //if (smartResult && smartResult.entries.length > 0) {
-                            //  getYDSymbol(Trans.transText, function (symbol) {
-                            //    Trans.transResult.symbols.en = symbol.uk;
-                            //    Trans.transResult.symbols.am = symbol.us;
-                            //    h_onloadfn();
-                            //  });
-                            //} else {
+                            var smartResult = data.smartResult;
+                            if (smartResult && smartResult.entries.length > 0) {
+                              getYDSymbol(Trans.transText, function (symbol) {
+                                Trans.transResult.symbols.en = symbol.uk;
+                                Trans.transResult.symbols.am = symbol.us;
+                                h_onloadfn();
+                              });
+                            } else {
                             h_onloadfn();
-                            //}
+                            }
                         }
                     }, 300);
                 },
@@ -569,9 +569,9 @@
                 init:function(){},          //可选，初始化接口，在脚本创建时立即执行
              */
             var transEngineListObj = {};
-            //屏蔽有道翻译字数限制
-            //transEngineListObj[youdaoTrans.code] = youdaoTrans;
             transEngineListObj[baiduTrans.code] = baiduTrans;
+            //有道翻译字数限制
+            transEngineListObj[youdaoTrans.code] = youdaoTrans;
             this.transEngineList = transEngineListObj;
             for (var key in this.transEngineList) {
                 if (this.transEngineList.hasOwnProperty(key) && this.transEngineList[key].hasOwnProperty("init")) {
@@ -873,13 +873,6 @@
             var settingHtml = [];
             this.InitConfig();
             settingHtml.push('<div style="padding-left: 15px;display: inline-block;">');
-            /*
-            settingHtml.push('<div style="padding-bottom: 30px; max-width: 600px;">');
-                settingHtml.push('<div style="font-size: 14px; padding-bottom: 3px;">默认翻译引擎：</div>');
-                settingHtml.push(StringFormat('<div style="padding-bottom: 3px; margin-left: 10px;"><label style="font-size: 14px; cursor: pointer;"><input type="radio" name="transEngine{0}" style="cursor: pointer;" value="yd">有道</label></div>',randomCode));
-                settingHtml.push(StringFormat('<div style="padding-bottom: 0px; margin-left: 10px;"><label style="font-size: 14px; cursor: pointer;"><input type="radio" name="transEngine{0}" style="cursor: pointer;" value="ge">谷歌</label></div>',randomCode));
-            settingHtml.push('</div>');
-            */
             for (var index = 0; index < this.config.length; index++) {
                 var configItem = this.config[index];
                 settingHtml.push('<div style="padding-bottom: 30px; max-width: 600px;">');
